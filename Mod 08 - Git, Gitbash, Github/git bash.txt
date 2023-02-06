@@ -1,0 +1,10 @@
+cd "C:\Users\harle\AULAS DE CIENCIAS DE DAOS\ebac\EBAC-Dados" *aqui onde a pasta vai fazer o clone
+git config --global user.email harlei.akira@gmail.com         *email
+git config --global user.name "Harlei Akira"			  *nome
+git clone https://github.com/harleiaki/EBAC-Dados.git		  *repositorio do github que vai ser clonado
+cd EBAC-Dados								  *trocando de pasta
+git add 'Mod 07 - Tarefa 02.ipynb'				    	  *adicionando arquivos 
+git add 'Mod07 - Tarefa 01.csv'					  *adicionando todos os arquivos
+git status									  *status 				
+git commit -m "adicionando dados e notebook do projeto"	  *commit do que foi alterado
+git push									  *push colocando os no github 
