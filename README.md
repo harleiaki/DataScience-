@@ -1,4 +1,4 @@
-# EBAC-Dados
+# DataScience - EBAC
 
 # Linguagem
 - Python
