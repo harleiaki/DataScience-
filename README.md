@@ -4,6 +4,7 @@
 - Python
 
 # Bibliotecas
+- numpy
 - pandas
 - matplotlib
 - seaborn
