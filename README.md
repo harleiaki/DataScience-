@@ -48,7 +48,52 @@ Os pandas também podem excluir linhas que não são relevantes ou que contêm i
   
 # Plotly
 
+https://plotly.com/python/
+
 - Plotar gráficos interativos e dinamicos
 
+# Matplotlib
 
+https://www.w3schools.com/python/matplotlib_intro.asp
+
+- Matplotlib é uma biblioteca de plotagem de gráficos de baixo nível em python que serve como um utilitário de visualização.
+
+# seaborn 
+
+https://seaborn.pydata.org/
+
+- Seaborn é uma biblioteca de visualização de dados Python baseada em matplotlib. Ele fornece uma interface de alto nível para o desenho gráficos estatísticos atraentes e informativos.
+
+# scikit-learn
+
+https://scikit-learn.org/stable/index.html
+
+- Classificação
+Identificar a qual categoria um objeto pertence.
+Aplicativos: Detecção de spam, reconhecimento de imagem.
+
+- Regressão
+Prevendo um atributo de valor contínuo associado a um objeto.
+Aplicativos: Resposta a medicamentos, Preços das ações.
+
+- Clustering
+Agrupamento automático de objetos semelhantes em conjuntos.
+Aplicativos: Segmentação de clientes, Agrupamento de resultados de experimentos
+
+- Redução da dimensionalidade
+Reduzir o número de variáveis aleatórias a serem consideradas.
+Aplicativos: Visualização, Algoritmos de maior eficiência
+
+- Seleção de modelo
+Comparar, validar e escolher parâmetros e modelos.
+Aplicativos: Precisão melhorada através de algoritmos de ajuste de afinação
+
+- Pré-processamento
+Extração e normalização de recursos.
+Aplicativos: Transformar dados de entrada, como texto, para uso com algoritmos de aprendizado de máquina.
+
+Ferramentas simples e eficientes para análise preditiva de dados
+Acessível a todos e reutilizável em vários contextos
+Construído em NumPy, SciPy e matplotlib
+Código aberto, comercialmente utilizável - licença BSD
 
