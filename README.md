@@ -35,7 +35,7 @@ Esta é a principal razão pela qual o NumPy é mais rápido do que as listas. T
 
 - NumPy fornece um grande conjunto de funções e operações de biblioteca que ajudam os programadores a executar facilmente cálculos numéricos.(Modelos Machine Learning, Processamento de Imagem e Computação Gráfica e Tarefas matemáticas
 
-# Panda
+# Pandas
 
 https://www.w3schools.com/python/pandas/default.asp
 
