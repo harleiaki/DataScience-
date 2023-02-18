@@ -24,6 +24,9 @@
 - Resolução de problemas com base em dados
 
 # NumPy 
+
+https://www.w3schools.com/python/numpy/default.asp
+
 As matrizes NumPy são armazenadas em um local contínuo na memória, ao contrário das listas, para que os processos possam acessá-las e manipulá-las com muita eficiência.
 
 Esse comportamento é chamado de localidade de referência em ciência da computação.
@@ -33,6 +36,9 @@ Esta é a principal razão pela qual o NumPy é mais rápido do que as listas. T
 - NumPy fornece um grande conjunto de funções e operações de biblioteca que ajudam os programadores a executar facilmente cálculos numéricos.(Modelos Machine Learning, Processamento de Imagem e Computação Gráfica e Tarefas matemáticas
 
 # Panda
+
+https://www.w3schools.com/python/pandas/default.asp
+
 Existe uma correlação entre duas ou mais colunas?
 O que é valor médio?Valor máximo?Valor mínimo?
 Os pandas também podem excluir linhas que não são relevantes ou que contêm informações erradas valores, como valores vazios ou NULL. Isso é chamado de limpeza dos dados.
