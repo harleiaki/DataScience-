@@ -1,5 +1,7 @@
 # DataScience - EBAC
 
+# Usar Python e suas bibliotecas, Jupyter e Anaconda
+
 # Linguagem
 - Python
 
@@ -96,4 +98,8 @@ Ferramentas simples e eficientes para análise preditiva de dados
 Acessível a todos e reutilizável em vários contextos
 Construído em NumPy, SciPy e matplotlib
 Código aberto, comercialmente utilizável - licença BSD
+
+
+# JupyterLab: Uma interface de notebook de última geração https://jupyter.org/
+- O JupyterLab é o mais recente ambiente de desenvolvimento interativo baseado na Web para notebooks, código e dados. Sua interface flexível permite que os usuários configurem e organizem fluxos de trabalho em ciência de dados, computação científica, jornalismo computacional e aprendizado de máquina. Um design modular convida as extensões a expandir e enriquecer a funcionalidade.
 
