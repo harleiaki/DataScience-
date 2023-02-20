@@ -103,3 +103,5 @@ Código aberto, comercialmente utilizável - licença BSD
 # JupyterLab: Uma interface de notebook de última geração https://jupyter.org/
 - O JupyterLab é o mais recente ambiente de desenvolvimento interativo baseado na Web para notebooks, código e dados. Sua interface flexível permite que os usuários configurem e organizem fluxos de trabalho em ciência de dados, computação científica, jornalismo computacional e aprendizado de máquina. Um design modular convida as extensões a expandir e enriquecer a funcionalidade.
 
+# Anaconda Tecnologia de ciência de dados para pesquisa inovadora.uma vantagem competitiva.um mundo melhor. https://www.anaconda.com/
+- A Anaconda oferece a maneira mais fácil de executar ciência de dados Python / R e aprendizado de máquina em uma única máquina. Comece a trabalhar com milhares de pacotes e bibliotecas de código aberto hoje mesmo.
