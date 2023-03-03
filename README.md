@@ -110,13 +110,13 @@ Código aberto, comercialmente utilizável - licença BSD
 * ![barras](https://user-images.githubusercontent.com/96266332/222607976-6789823b-9096-428b-8dc9-b339d7a5ba76.jpg)
 
 * Gráfico de linhas : tendência ao longo do tempo
-![linhas](https://user-images.githubusercontent.com/96266332/222608064-51b74f02-105a-4c8d-88d4-fa0b6b1aac14.png)
+*![linhas](https://user-images.githubusercontent.com/96266332/222608064-51b74f02-105a-4c8d-88d4-fa0b6b1aac14.png)
 
 * Gráfico de dispersão : mostra relação entre variáveis 
-![dispercao](https://user-images.githubusercontent.com/96266332/222608155-0b014fa5-4aea-48e2-b76a-84c2c7c331af.png)
+*![dispercao](https://user-images.githubusercontent.com/96266332/222608155-0b014fa5-4aea-48e2-b76a-84c2c7c331af.png)
 
 * Gráfico de pizza : distribuição proporcional de diferentes categorias
-![pizza](https://user-images.githubusercontent.com/96266332/222608253-076b124a-547f-4f5a-ace3-428653b266bd.jpg)
+*![pizza](https://user-images.githubusercontent.com/96266332/222608253-076b124a-547f-4f5a-ace3-428653b266bd.jpg)
 
 * Mapa : visualização de dados geoespaciais
-![mapa](https://user-images.githubusercontent.com/96266332/222608341-06ba2cbd-c154-40e9-8e28-edf86078799c.gif)
+*![mapa](https://user-images.githubusercontent.com/96266332/222608341-06ba2cbd-c154-40e9-8e28-edf86078799c.gif)
