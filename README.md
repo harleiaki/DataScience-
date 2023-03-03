@@ -1,6 +1,7 @@
 # DataScience - EBAC
 
-* Gráfico de barras : comparar frequência entre categorias
+* Gráfico de barras : comparar frequência entre categorias![barras](https://user-images.githubusercontent.com/96266332/222607639-4cbeee44-bf8f-4eae-99eb-7ed1118e7c3c.jpg)
+
 * Gráfico de linhas : tendência ao longo do tempo
 * Gráfico de dispersão : mostra relação entre variáveis 
 * Gráfico de pizza : distribuição proporcional de diferentes categorias
