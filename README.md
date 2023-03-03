@@ -1,12 +1,5 @@
 # DataScience - EBAC
 
-* Gráfico de barras : comparar frequência entre categorias![barras](https://user-images.githubusercontent.com/96266332/222607639-4cbeee44-bf8f-4eae-99eb-7ed1118e7c3c.jpg)
-
-* Gráfico de linhas : tendência ao longo do tempo
-* Gráfico de dispersão : mostra relação entre variáveis 
-* Gráfico de pizza : distribuição proporcional de diferentes categorias
-* Mapa : visualização de dados geoespaciais
-
 # Usar Python e suas bibliotecas, Jupyter e Anaconda
 
 # Linguagem
@@ -112,3 +105,11 @@ Código aberto, comercialmente utilizável - licença BSD
 
 # Anaconda Tecnologia de ciência de dados para pesquisa inovadora.uma vantagem competitiva.um mundo melhor. https://www.anaconda.com/
 - A Anaconda oferece a maneira mais fácil de executar ciência de dados Python / R e aprendizado de máquina em uma única máquina. Comece a trabalhar com milhares de pacotes e bibliotecas de código aberto hoje mesmo.
+
+* Gráfico de barras : comparar frequência entre categorias
+* ![barras](https://user-images.githubusercontent.com/96266332/222607639-4cbeee44-bf8f-4eae-99eb-7ed1118e7c3c.jpg)
+
+* Gráfico de linhas : tendência ao longo do tempo
+* Gráfico de dispersão : mostra relação entre variáveis 
+* Gráfico de pizza : distribuição proporcional de diferentes categorias
+* Mapa : visualização de dados geoespaciais
