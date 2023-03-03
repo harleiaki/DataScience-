@@ -107,9 +107,16 @@ Código aberto, comercialmente utilizável - licença BSD
 - A Anaconda oferece a maneira mais fácil de executar ciência de dados Python / R e aprendizado de máquina em uma única máquina. Comece a trabalhar com milhares de pacotes e bibliotecas de código aberto hoje mesmo.
 
 * Gráfico de barras : comparar frequência entre categorias
-* ![barras](https://user-images.githubusercontent.com/96266332/222607639-4cbeee44-bf8f-4eae-99eb-7ed1118e7c3c.jpg)
+* ![barras](https://user-images.githubusercontent.com/96266332/222607976-6789823b-9096-428b-8dc9-b339d7a5ba76.jpg)
 
 * Gráfico de linhas : tendência ao longo do tempo
+![linhas](https://user-images.githubusercontent.com/96266332/222608064-51b74f02-105a-4c8d-88d4-fa0b6b1aac14.png)
+
 * Gráfico de dispersão : mostra relação entre variáveis 
+![dispercao](https://user-images.githubusercontent.com/96266332/222608155-0b014fa5-4aea-48e2-b76a-84c2c7c331af.png)
+
 * Gráfico de pizza : distribuição proporcional de diferentes categorias
+![pizza](https://user-images.githubusercontent.com/96266332/222608253-076b124a-547f-4f5a-ace3-428653b266bd.jpg)
+
 * Mapa : visualização de dados geoespaciais
+![mapa](https://user-images.githubusercontent.com/96266332/222608341-06ba2cbd-c154-40e9-8e28-edf86078799c.gif)
