@@ -1,5 +1,11 @@
 # DataScience - EBAC
 
+Gráfico de barras : comparar frequência entre categorias
+Gráfico de linhas : tendência ao longo do tempo
+Gráfico de dispersão : mostra relação entre variáveis 
+Gráfico de pizza : distribuição proporcional de diferentes categorias
+Mapa : visualização de dados geoespaciais
+
 # Usar Python e suas bibliotecas, Jupyter e Anaconda
 
 # Linguagem
