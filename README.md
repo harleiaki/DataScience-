@@ -106,6 +106,8 @@ Código aberto, comercialmente utilizável - licença BSD
 # Anaconda Tecnologia de ciência de dados para pesquisa inovadora.uma vantagem competitiva.um mundo melhor. https://www.anaconda.com/
 - A Anaconda oferece a maneira mais fácil de executar ciência de dados Python / R e aprendizado de máquina em uma única máquina. Comece a trabalhar com milhares de pacotes e bibliotecas de código aberto hoje mesmo.
 
+# Tipos de Gráficos.
+
 * Gráfico de barras : comparar frequência entre categorias
 * ![barras](https://user-images.githubusercontent.com/96266332/222607976-6789823b-9096-428b-8dc9-b339d7a5ba76.jpg)
 
