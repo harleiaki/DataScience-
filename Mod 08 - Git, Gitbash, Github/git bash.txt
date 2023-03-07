@@ -8,3 +8,4 @@ git add 'Mod07 - Tarefa 01.csv'					  *adicionando todos os arquivos
 git status									  *status 				
 git commit -m "adicionando dados e notebook do projeto"	  *commit do que foi alterado
 git push									  *push colocando os no github 
+git checkout nomeBranch           * para trocar a branch
