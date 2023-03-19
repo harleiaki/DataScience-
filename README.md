@@ -13,6 +13,7 @@
 - seaborn
 - tabula
 - scikit-learn
+- Streamlit
 
 # Habilidades 
 
@@ -59,6 +60,12 @@ https://plotly.com/python/
 https://www.w3schools.com/python/matplotlib_intro.asp
 
 - Matplotlib é uma biblioteca de plotagem de gráficos de baixo nível em python que serve como um utilitário de visualização.
+
+# Streamlit
+
+https://streamlit.io/
+
+- O Streamlit é uma biblioteca Python de código aberto que facilita a criação e o compartilhamento de aplicativos da Web bonitos e personalizados para aprendizado de máquina e ciência de dados. Em apenas alguns minutos, você pode criar e implantar aplicativos de dados poderosos.
 
 # seaborn 
 
