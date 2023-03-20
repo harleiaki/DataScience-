@@ -129,3 +129,25 @@ Código aberto, comercialmente utilizável - licença BSD
 
 * Mapa : visualização de dados geoespaciais
 * ![mapa](https://user-images.githubusercontent.com/96266332/222608341-06ba2cbd-c154-40e9-8e28-edf86078799c.gif)
+
+---
+
+Cientista de Dados
+
+Módulo 1 - Perspectivas de Carreira
+Módulo 2 - Metodologia
+Módulo 3 - Elementos básicos de Python e Numpy - Parte I
+Módulo 3 - Elementos básicos de Python e Numpy - Parte II
+Módulo 4 - Introdução ao Pandas e carga de dados
+Módulo 5 - Limpeza e preparação de dados
+Módulo 6 - Descritiva I
+Módulo 7 - Árvores I
+Módulo 8 - Git / GitHub - Controle de versionamento
+Módulo 9 - TdD III - Agregações e operações em grupos
+Módulo 10 - Descritiva II - Análise descritiva para resposta contínua
+Módulo 11 - Árvores II (Parte I: árvore de regressão)
+Módulo 12 - Regressão I
+Módulo 13 - Regressão II
+Módulo 14 - Scripting
+Módulo 15 - Streamlit I
+Módulo 16 - TdD IV - Pandas avançado
