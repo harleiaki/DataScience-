@@ -105,7 +105,13 @@ Ferramentas simples e eficientes para análise preditiva de dados
 Acessível a todos e reutilizável em vários contextos
 Construído em NumPy, SciPy e matplotlib
 Código aberto, comercialmente utilizável - licença BSD
+
 ---
+
+# PostgreSQL
+https://www.postgresql.org/
+
+- O PostgreSQL é um poderoso sistema de banco de dados objeto-relacional de código aberto com mais de 35 anos de desenvolvimento ativo que lhe valeu uma forte reputação de confiabilidade, robustez de recursos e desempenho.
 
 # JupyterLab: Uma interface de notebook de última geração https://jupyter.org/
 - O JupyterLab é o mais recente ambiente de desenvolvimento interativo baseado na Web para notebooks, código e dados. Sua interface flexível permite que os usuários configurem e organizem fluxos de trabalho em ciência de dados, computação científica, jornalismo computacional e aprendizado de máquina. Um design modular convida as extensões a expandir e enriquecer a funcionalidade.
