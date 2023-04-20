@@ -18,7 +18,7 @@
 # Habilidades 
 
 - Domínio do Python
-- Linguagem SQL
+- Linguagem SQL/postgresql
 - Árvore de decisão na prática
 - Big Data e Machine Learning
 - Competências/Ferramentas
