@@ -30,8 +30,8 @@
 ---
 
 # Linguagem
-- Python
-- SQL
+- Python/Anaconda https://www.anaconda.com/
+- SQL/PostgreSQL https://www.postgresql.org/
 ---
 
 # Bibliotecas
