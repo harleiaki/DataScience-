@@ -1,0 +1,4 @@
+Para subir um arquivo sql no postgresql primeiro é necessário abrir o "configurações","editar as variáveisde ambiente do sistema","variaveis de ambiente","variáveis do sistema", "path", "novo", adicionar o local do repositório do postgres até a pasta "bin" (C:\Program Files\PostgreSQL\15\bin).
+Ir no pgadmin criar o database, fazer o restore do local do arquivo sql.
+Apos isso é necessario ir no cmd e fazer o comando no local do arquivo sql, psql --username=postgres nome do database < nome do arquivo sql.
+tudo isso vai ser compilado para o pgadmin automatico
