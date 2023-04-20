@@ -4,7 +4,9 @@
 ---
 # Linguagem
 - Python
+- SQL
 ---
+
 # Bibliotecas
 - numpy
 - pandas
@@ -26,6 +28,7 @@
 - Padronizações
 - Resolução de problemas com base em dados
 ---
+
 # NumPy 
 
 https://www.w3schools.com/python/numpy/default.asp
@@ -38,6 +41,7 @@ Esta é a principal razão pela qual o NumPy é mais rápido do que as listas. T
 
 - NumPy fornece um grande conjunto de funções e operações de biblioteca que ajudam os programadores a executar facilmente cálculos numéricos.(Modelos Machine Learning, Processamento de Imagem e Computação Gráfica e Tarefas matemáticas
 ---
+
 # Pandas
 
 https://www.w3schools.com/python/pandas/default.asp
@@ -49,30 +53,35 @@ Os pandas também podem excluir linhas que não são relevantes ou que contêm i
 - Utilizada para exploração de dados, manipulação e análise: 
   usado para estruturas de dados e funções para carregar dados em CSV, manipular estrutura tabular.
   ---
+  
 # Plotly
 
 https://plotly.com/python/
 
 - Plotar gráficos interativos e dinamicos
 ---
+
 # Matplotlib
 
 https://www.w3schools.com/python/matplotlib_intro.asp
 
 - Matplotlib é uma biblioteca de plotagem de gráficos de baixo nível em python que serve como um utilitário de visualização.
 ---
+
 # Streamlit
 
 https://streamlit.io/
 
 - O Streamlit é uma biblioteca Python de código aberto que facilita a criação e o compartilhamento de aplicativos da Web bonitos e personalizados para aprendizado de máquina e ciência de dados. Em apenas alguns minutos, você pode criar e implantar aplicativos de dados poderosos.
 ---
+
 # seaborn 
 
 https://seaborn.pydata.org/
 
 - Seaborn é uma biblioteca de visualização de dados Python baseada em matplotlib. Ele fornece uma interface de alto nível para o desenho gráficos estatísticos atraentes e informativos.
 ---
+
 # scikit-learn
 
 https://scikit-learn.org/stable/index.html
