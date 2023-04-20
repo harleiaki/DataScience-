@@ -27,7 +27,12 @@
 ---
 
 # Usando Python/PostgreSQL e suas bibliotecas, Jupyter Notebook e Anaconda 3.9
----
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> 
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+
 
 # Linguagem
 - Python/Anaconda https://www.anaconda.com/
