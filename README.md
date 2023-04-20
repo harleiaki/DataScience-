@@ -26,7 +26,7 @@
 # DataScience - EBAC
 ---
 
-# Usando Python e suas bibliotecas, Jupyter e Anaconda
+# Usando Python/PostgreSQL e suas bibliotecas, Jupyter Notebook e Anaconda 3.9
 ---
 
 # Linguagem
