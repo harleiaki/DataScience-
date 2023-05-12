@@ -24,6 +24,8 @@
 - Módulo 21 - TdD V - SQL
 - Módulo 22 - Descritiva III - Gráficos interativos - Plotly
 - Módulo 23 - Combinação de modelos I
+- Módulo 24 - Combinação de modelos II
+- Módulo 25 - Cálculo
 
 # DataScience - EBAC
 ---
