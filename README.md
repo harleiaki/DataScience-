@@ -26,6 +26,8 @@
 - Módulo 23 - Combinação de modelos I
 - Módulo 24 - Combinação de modelos II
 - Módulo 25 - Cálculo
+- Módulo 26 - Algelin
+- Módulo 27 - PCA
 
 # DataScience - EBAC
 ---
