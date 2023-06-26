@@ -28,6 +28,13 @@
 - Módulo 25 - Cálculo
 - Módulo 26 - Algelin
 - Módulo 27 - PCA
+- Módulo 28 - Streamlit III, IV
+- Módulo 29 - K-means
+- Módulo 30 - Hierárquicos / aglomerativos
+- Módulo 31 - Streamlit V
+- Módulo 32 - Probabilidade
+- Módulo 33 - Inferência
+- 
 
 # DataScience - EBAC
 ---
