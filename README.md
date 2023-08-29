@@ -1,5 +1,12 @@
 ## Cientista de Dados
 
+![badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![badge](https://img.shields.io/badge/Anaconda-323330?style=for-the-badge&logo=anaconda&logoColor=green)
+![badge](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter&logoColor=orange)
+![badge](https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=orange)
+![badge](https://img.shields.io/badge/Numpy-323330?style=for-the-badge&logo=numpy&logoColor=blue)
+![badge](https://img.shields.io/badge/PostgreSql-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+
 - Módulo 1 - Perspectivas de Carreira
 - Módulo 2 - Metodologia
 - Módulo 3 - Elementos básicos de Python e Numpy - Parte I
@@ -38,14 +45,6 @@
 
 # DataScience - EBAC
 ---
-
-# Usando Python/PostgreSQL e suas bibliotecas, Jupyter Notebook e Anaconda 3.9
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> 
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-
 
 # Linguagem
 - Python/Anaconda https://www.anaconda.com/
