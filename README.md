@@ -6,6 +6,8 @@
 ![badge](https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=pandas&logoColor=orange)
 ![badge](https://img.shields.io/badge/Numpy-323330?style=for-the-badge&logo=numpy&logoColor=blue)
 ![badge](https://img.shields.io/badge/PostgreSql-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+![badge](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![badge](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=Python)
 
 - Módulo 1 - Perspectivas de Carreira
 - Módulo 2 - Metodologia
