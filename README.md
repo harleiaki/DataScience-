@@ -43,7 +43,11 @@
 - Módulo 31 - Streamlit V
 - Módulo 32 - Probabilidade
 - Módulo 33 - Inferência
-- 
+- Módulo 34 - Regressão III
+- Módulo 35 - Regressão IV
+- Módulo 36 - Descritiva IV - Visualização de dados categorizados
+- Módulo 37 - Regressão Logística II
+- Módulo 38 - Streamlit VI e Pycaret
 
 # DataScience - EBAC
 ---
