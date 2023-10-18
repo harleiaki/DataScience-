@@ -50,7 +50,7 @@
 - Módulo 38 - Streamlit VI e Pycaret
 
 # DataScience - EBAC
----
+--- Python versão 3.10
 
 # Linguagem
 - Python/Anaconda https://www.anaconda.com/
